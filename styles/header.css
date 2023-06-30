@@ -1,7 +1,7 @@
 .cabecalho__menu-hamburguer {
   width: 40px;
   height: 40px;
-  background-image: url(../img/menu.svg);
+  background-image: url("../img/menu.svg");
   background-repeat: no-repeat;
   background-position: center;
   display: inline-block;
@@ -117,6 +117,6 @@
   }
 
   .opções__botao {
-    display: none;
+    /* display: none; */
   }
 }
